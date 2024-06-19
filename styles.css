@@ -62,6 +62,9 @@ button:hover {
 
 .popup-content img.girlfriend {
     transition: transform 0.3s ease-out; /* Smooth transition for transform effect */
+    max-width: 60%;
+    height: auto;
+    
 }
 
 .popup-content img.girlfriend:hover {
