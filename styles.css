@@ -54,7 +54,7 @@ button:hover {
 }
 
 .popup-content img {
-    max-width: 50%;
+    max-width: 20%;
     height: auto;
     border: 3px solid #fff;
     border-radius: 10px;
